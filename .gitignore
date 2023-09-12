@@ -1,0 +1,11 @@
+*env
+data
+logs
+*cache*
+.*
+test*
+*images*
+*tar.bz2
+*.h5
+models/conv2d/models
+*model
